@@ -1,5 +1,5 @@
 {
-    "name": "YTauber/array-images",
+    "name": "ytauber/array-images",
     "description": "A Laravel Nova field for distribute your images as array of object.",
     "keywords": [
         "laravel",
